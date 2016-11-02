@@ -6,7 +6,7 @@ A promiscuous raw socket framework for Python.
 What does it do?
 ================
 
-Re-invents the wheel.<br>
+Re-invents the wheel (not for the better cowboy, this is the wild side of the internet).<br>
 It creates a raw socket without any automated header builds.<br>
 <br>
 The framework can be used to create basic Ethernet, IP and TCP/UDP headers.<br>
